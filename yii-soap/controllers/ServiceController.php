@@ -131,8 +131,8 @@ class ServiceController extends Controller
     /**
      * @param string $document
      * @param string $cellphone
-     * @param string $description
      * @param double $amount
+     * @param string $description
      * @return array
      * @soap
      */
@@ -149,7 +149,7 @@ class ServiceController extends Controller
                 $dbTransaction            = \Yii::$app->getDb()->beginTransaction();
                 $transaction              = new WalletTransaction();
                 $transaction->client_id   = $client->id;
-                $transaction->type        = 1; //status 1 is adding money
+                $transaction->type        = 0; //status 0 is for making payments
                 $transaction->amount      = $amount;
                 $transaction->description = $description;
                 $transaction->date        = date('Y-m-d H:i:s');
@@ -177,13 +177,12 @@ class ServiceController extends Controller
                     ];
                 }
 
-
                 $dbTransaction->commit();
 
-
+                // TODO remove token when sending mail
                 return [
                     'status'      => 1,
-                    'message'     => "payment saved, please check your email",
+                    'message'     => "payment saved, please check your email to confirm",
                     'transaction' => $transaction->id,
                     'token'       => $validation->token
                 ];
