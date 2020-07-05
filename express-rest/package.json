@@ -1,0 +1,14 @@
+{
+  "name": "express-rest",
+  "version": "1.0.0",
+  "description": "Rest services for wallet simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "author": "CSuaznabar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

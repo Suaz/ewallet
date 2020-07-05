@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc4f1717-255c-435a-a514-4c1e86a0721c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Wallet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fe675407-c044-49e0-a2f4-d9feaeb19f21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php-test-framework.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/.bin/mime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/accepts/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/accepts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/accepts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/accepts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/accepts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/array-flatten/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/array-flatten/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/array-flatten/array-flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/array-flatten/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/lib/read.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/lib/types/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/lib/types/raw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/lib/types/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/body-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/bytes/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/bytes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/bytes/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/bytes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/bytes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-disposition/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-disposition/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-disposition/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-disposition/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-disposition/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-type/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-type/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-type/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-type/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/content-type/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie-signature/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie-signature/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie-signature/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie-signature/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie-signature/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/cookie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/.coveralls.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/src/inspector-log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/lib/browser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/lib/compat/callsite-tostring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/lib/compat/event-listener-count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/lib/compat/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/depd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/destroy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/destroy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/destroy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/destroy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ee-first/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ee-first/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ee-first/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ee-first/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/encodeurl/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/encodeurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/encodeurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/encodeurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/encodeurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/escape-html/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/escape-html/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/escape-html/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/escape-html/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/etag/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/etag/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/etag/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/etag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/etag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/middleware/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/middleware/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/router/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/router/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/lib/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/finalhandler/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/finalhandler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/finalhandler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/finalhandler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/finalhandler/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/forwarded/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/forwarded/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/forwarded/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/forwarded/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/forwarded/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/fresh/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/fresh/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/fresh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/fresh/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/fresh/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/http-errors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/http-errors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/http-errors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/http-errors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/http-errors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/Changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/dbcs-codec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/dbcs-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/sbcs-codec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/sbcs-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/big5-added.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/cp936.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/cp949.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/cp950.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/eucjp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/utf16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/encodings/utf7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/lib/bom-handling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/lib/extend-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/lib/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/lib/streams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/ipaddr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/lib/ipaddr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/lib/ipaddr.js.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ipaddr.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/media-typer/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/media-typer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/media-typer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/media-typer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/media-typer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/merge-descriptors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/merge-descriptors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/merge-descriptors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/merge-descriptors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/merge-descriptors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/methods/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/methods/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/methods/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/methods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/methods/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/mime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/src/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/mime/types.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/lib/charset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/lib/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/lib/mediaType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/negotiator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/on-finished/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/on-finished/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/on-finished/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/on-finished/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/on-finished/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/parseurl/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/parseurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/parseurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/parseurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/parseurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/path-to-regexp/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/path-to-regexp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/path-to-regexp/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/path-to-regexp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/proxy-addr/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/proxy-addr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/proxy-addr/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/proxy-addr/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/proxy-addr/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/dist/qs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/lib/formats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/test/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/test/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/qs/test/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/range-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/range-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/range-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/range-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/range-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/raw-body/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safe-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safe-buffer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safe-buffer/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safe-buffer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/Porting-Buffer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/dangerous.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/safer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/safer-buffer/tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/node_modules/ms/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/node_modules/ms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/send/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/serve-static/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/serve-static/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/serve-static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/serve-static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/serve-static/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/setprototypeof/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/codes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/statuses/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/toidentifier/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/toidentifier/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/toidentifier/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/toidentifier/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/type-is/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/type-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/type-is/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/type-is/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/type-is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/unpipe/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/unpipe/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/unpipe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/unpipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/unpipe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/utils-merge/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/utils-merge/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/utils-merge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/utils-merge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/utils-merge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/vary/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/vary/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/vary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/vary/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/vary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express-rest/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-frontend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/.bowerrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/Vagrantfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/assets/AppAsset.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/codeception.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/commands/HelloController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/params.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/test_db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/config/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/controllers/ServiceController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/controllers/SiteController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/mail/layouts/html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/migrations/m200704_195416_initialData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/ContactForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/LoginForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletClientQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletTransaction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletTransactionQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletValidation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/models/WalletValidationQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/requirements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/runtime/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_data/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_output/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_support/AcceptanceTester.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_support/FunctionalTester.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/_support/UnitTester.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance.suite.yml.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance/AboutCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance/ContactCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance/HomeCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance/LoginCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/acceptance/_bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/bin/yii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/bin/yii.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/functional.suite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/functional/ContactFormCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/functional/LoginFormCest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/functional/_bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/unit.suite.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/unit/_bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/unit/models/ContactFormTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/unit/models/LoginFormTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/tests/unit/models/UserTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/config/vagrant-local.example.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/nginx/app.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/nginx/log/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/provision/always-as-root.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/provision/once-as-root.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/vagrant/provision/once-as-vagrant.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/layouts/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/site/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/site/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/site/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/site/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/views/site/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/assets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/index-test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/web/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/widgets/Alert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/yii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii-soap/yii.bat" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/yii-soap/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ewallet: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ewallet: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="wallet_client: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ewallet: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="wallet_transaction: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ewallet@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ewallet: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="wallet_validation: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yii-soap/config/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yii-soap/migrations/m200704_195416_initialData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yii-soap/controllers/ServiceController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="230" column="24" lean-forward="true" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
+              <folding>
+                <element signature="e#123#151#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe675407-c044-49e0-a2f4-d9feaeb19f21/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-=</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/yii-soap/config/db.php" />
+        <option value="$PROJECT_DIR$/yii-soap/migrations/m200704_195416_initialData.php" />
+        <option value="$PROJECT_DIR$/yii-soap/config/web.php" />
+        <option value="$PROJECT_DIR$/yii-soap/controllers/ServiceController.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe675407-c044-49e0-a2f4-d9feaeb19f21/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/composer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/specify" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/yii-soap/vendor/conquer/services" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-334" />
+    <option name="y" value="-1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="web" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="widgets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="react-frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="yii-soap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
+              <item name="yii-soap" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4f1717-255c-435a-a514-4c1e86a0721c" name="Default Changelist" comment="" />
+      <created>1593891849098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593891849098</updated>
+      <workItem from="1593891850699" duration="14811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14811000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-334" y="-1440" width="2560" height="1440" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07029388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" weight="0.2029197" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Database Console" visible="true" weight="0.14963503" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" visible="true" weight="0.32962668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Soap services ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soap services ready" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yii-soap/config/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/vendor/yiisoft/yii2/db/SchemaBuilderTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="179" column="26" lean-forward="true" selection-start-line="179" selection-start-column="26" selection-end-line="179" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/migrations/m200704_195416_initialData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/vendor/conquer/services/WebService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#143#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/controllers/ServiceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="230" column="24" lean-forward="true" selection-start-line="230" selection-start-column="24" selection-end-line="230" selection-end-column="24" />
+          <folding>
+            <element signature="e#123#151#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe675407-c044-49e0-a2f4-d9feaeb19f21/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
