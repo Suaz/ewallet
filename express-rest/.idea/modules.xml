@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/express-rest.iml" filepath="$PROJECT_DIR$/.idea/express-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-frontend/.idea/react-frontend.iml" filepath="$PROJECT_DIR$/../react-frontend/.idea/react-frontend.iml" />
     </modules>
   </component>
 </project>

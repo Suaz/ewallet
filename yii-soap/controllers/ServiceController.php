@@ -165,7 +165,7 @@ class ServiceController extends Controller
 
                 $validation                 = new WalletValidation();
                 $validation->transaction_id = $transaction->id;
-                $validation->token          = uniqid(); // TODO, implement better token generation function
+                $validation->token          = substr(uniqid(), 0, 6); // TODO, implement better token generation function
                 $validation->date           = date('Y-m-d H:i:s');
                 $validation->status         = 0; // 0 = pending
 
@@ -229,7 +229,7 @@ class ServiceController extends Controller
 
                 return [
                     'status'  => 1,
-                    'message' => "payment processed, your current money is " . $transaction->client->money,
+                    'message' => "payment processed, your current money is " . floatval($transaction->client->money) . ' $us',
                 ];
             }
             return [
@@ -261,7 +261,7 @@ class ServiceController extends Controller
         if ($client) {
             return [
                 'status'  => 1,
-                'message' => "Your current money is " . $client->money
+                'message' => "Your current money is " . floatval($client->money) . ' $us',
             ];
         }
 
