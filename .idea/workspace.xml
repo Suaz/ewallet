@@ -1,123 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4f1717-255c-435a-a514-4c1e86a0721c" name="Default Changelist" comment="Soap services ready">
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/caseless/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/caseless/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/assert.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/async_hooks.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/base.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/buffer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/child_process.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/cluster.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/console.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/constants.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/crypto.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/dgram.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/dns.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/domain.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/events.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/fs.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/fs/promises.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/globals.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/globals.global.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/http.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/http2.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/https.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/inspector.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/module.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/net.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/os.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/path.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/perf_hooks.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/process.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/punycode.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/querystring.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/readline.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/repl.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/stream.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/string_decoder.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/timers.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/tls.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/trace_events.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.2/base.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.2/fs.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.2/globals.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.2/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.2/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.5/base.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.5/globals.global.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.5/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.5/wasi.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.7/assert.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.7/base.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/ts3.7/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/tty.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/url.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/util.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/v8.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/vm.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/worker_threads.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/node/zlib.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/request/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/request/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/tough-cookie/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/@types/tough-cookie/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/form-data/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/form-data/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/client.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/http.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/nscontext.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/BasicAuthSecurity.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/BearerSecurity.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/ClientSSLSecurity.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/ClientSSLSecurityPFX.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/NTLMSecurity.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/WSSecurity.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/WSSecurityCert.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/security/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/server.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/soap.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/types.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/utils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/wsdl/elements.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/lib/wsdl/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/express-rest/node_modules/soap/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/.idea/react-frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/Account.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/ConfirmBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/MailNotification.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/MessageBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/ProductItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/components/Title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/store/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/store/configureStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/store/middleware/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/store/walletReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/views/AddMoney.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/views/CheckMoney.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/views/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/views/RegisterClient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-frontend/src/views/Store.js" afterDir="false" />
+    <list default="true" id="bc4f1717-255c-435a-a514-4c1e86a0721c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/.idea/express-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/.idea/express-rest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/node_modules/express/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/express-rest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/express-rest/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-frontend/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yii-soap/controllers/ServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/yii-soap/controllers/ServiceController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yii-soap/controllers/ServiceController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
@@ -200,6 +86,30 @@
                 <element signature="e#1167#2186#0#PHP" />
                 <element signature="e#2387#3626#0#PHP" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="793">
+                <caret line="39" selection-start-line="39" selection-end-line="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yii-soap/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="356">
+                <caret line="114" column="2" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -258,6 +168,7 @@
         <option value="$PROJECT_DIR$/express-rest/index.js" />
         <option value="$PROJECT_DIR$/express-rest/.gitignore" />
         <option value="$PROJECT_DIR$/yii-soap/controllers/ServiceController.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -352,7 +263,7 @@
     <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -366,18 +277,7 @@
             <path>
               <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wallet" type="462c0819:PsiDirectoryNode" />
-              <item name="react-frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
-              <item name="yii-soap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wallet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wallet" type="462c0819:PsiDirectoryNode" />
-              <item name="yii-soap" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="express-rest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,22 +289,6 @@
             <path>
               <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="express-rest" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Wallet" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="yii-soap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -444,7 +328,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593891849098</updated>
       <workItem from="1593891850699" duration="15872000" />
-      <workItem from="1593919383928" duration="2552000" />
+      <workItem from="1593919383928" duration="5854000" />
     </task>
     <task id="LOCAL-00001" summary="Soap services ready">
       <created>1593910322533</created>
@@ -460,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1593922135590</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="React frontend added">
+      <created>1594010592835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594010592835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18424000" />
+    <option name="totallyTimeSpent" value="21726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-334" y="-1440" width="2560" height="1440" extended-state="0" />
@@ -499,7 +390,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Soap services ready" />
     <MESSAGE value="Rest services added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rest services added" />
+    <MESSAGE value="React frontend added" />
+    <option name="LAST_COMMIT_MESSAGE" value="React frontend added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/yii-soap/config/db.php">
@@ -542,13 +434,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yii-soap/web/index.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/express-rest/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="106" column="3" selection-start-line="106" selection-start-column="3" selection-end-line="106" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/express-rest/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -599,6 +484,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/express-rest/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/yii-soap/controllers/ServiceController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -608,6 +500,26 @@
             <element signature="e#1167#2186#0#PHP" />
             <element signature="e#2387#3626#0#PHP" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii-soap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="356">
+            <caret line="114" column="2" selection-start-line="114" selection-start-column="2" selection-end-line="114" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="793">
+            <caret line="39" selection-start-line="39" selection-end-line="39" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
